@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Gilroy",'Gill Sans', 'Gill Sans MT' sans-serif;
+}
+.blueDiv{
+    background-color: #F9FBFD;
+    padding: 5rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+.oneStop{
+    font-size: 20px;
+    font-family: Gilroy-Bold;
+}
+.possible{
+    color: blue;
+}
+.allData{
+    display: flex;
+    gap: 3rem;
+}
+.users{
+    margin-top: 4px;
+    width: 95%;
+}
+.whyDiv{
+    display: flex;
+    padding: 5rem 3rem;
+    align-items: start;
+}
+.whyDiv{
+    display: flex;
+}
+.whyDiv h2{
+    font-size: 3rem;
+}
+.flexOnly{
+    display: flex;
+}
+.scissors{
+    margin-top: 10px;
+    width: 60%;
+    font-size: 20px;
+}
+.icon{
+    background-color: #F9FBFD;
+    width: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    margin-bottom: 1rem;
+    border-radius: 5rem;
+}
+.why{
+    margin-bottom: 2rem;
+    margin-right: 3rem;
+}
+.smallNote{
+    margin-top: 1rem;
+}
+.whyTitle{
+    font-size: 20px;
+}
+.smallNote{
+    font-size: 16px;
+}
+.iconsDiv{
+    margin-left: -10rem;
+}
+.revolution{
+    display: flex;
+    flex-direction: column;
+    background-color: #1E3448;
+    padding: 5rem ;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.revolution button{
+    margin-top: 2rem;
+    background-color: blue;
+    color: white;
+    border-radius: 3rem;
+    padding: 1rem 4rem ;
+    border: none;
+}
+.foot{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.footerFlex{
+    display: flex;
+}
+.footerFlex ul{
+    list-style: none;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+}
+.footerFlex h2{
+    margin-bottom: 1rem;
+}
+.footerFlex li{
+    padding: 0.3rem 0rem;
+}
+.terms{
+    margin: 2rem 4rem;
+    text-align: end;
+}
+.termsborder{
+    border-right: 2px;
+    border-color: black;
+    padding: 0rem 0.7rem;
+}
+
